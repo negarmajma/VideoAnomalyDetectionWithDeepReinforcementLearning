@@ -2,6 +2,7 @@ Video Anomaly Detection using Deep Reinforcement Learning
 
 Overview
 This repository contains the implementation of a video anomaly detection framework based on Deep Learning and Deep Reinforcement Learning (DRL). The proposed approach combines feature extraction, anomaly scoring, and reinforcement learning-based decision making to identify abnormal events in surveillance videos.
+Dataset Url:https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
 
 Research Objective
 The primary objective of this project is to investigate whether Deep Reinforcement Learning can improve anomaly detection performance compared with traditional threshold-based decision methods.
